@@ -1,5 +1,9 @@
 # code review
 
+## 学习资料
+
+1. [如何codeReview](https://juejin.im/post/5e65985a518825491d322ace)
+
 ## 意义
 	提前发现bug
 	让别人了解你做的业务
